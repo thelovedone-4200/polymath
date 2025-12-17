@@ -1,0 +1,1 @@
+Marker: reverting temporary editor config files and tsconfig/app/index.css edits.
